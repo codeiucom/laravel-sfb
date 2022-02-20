@@ -1,0 +1,17 @@
+{
+    "name": "codeiucom-laravel-sfb",
+    "version": "1.0.0",
+    "author": "unknown",
+    "homepage": "https://codeiu.com",
+    "description": "codeiu laravel single file blade",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "glob": "^7.2.0",
+        "crypto-js": "^4.1.1",
+        "chokidar": "^3.5.3"
+    },
+    "devDependencies": {
+        "laravel-mix": "^6.0.6"
+    }
+}
